@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "mongodb_admin",
+    "MONGO_PASSWORD": "mongodb_admin",
+    "MONGO_DATABASE": "eshop"
+  }
+}
